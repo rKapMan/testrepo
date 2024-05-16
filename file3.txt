@@ -1,0 +1,79 @@
+Last login: Thu May 16 16:50:28 on ttys000
+romankapkanov@MacBook-Air-m1 ~ % ls
+Applications		Downloads		Music			Public			node_modules
+Desktop			Library			Pictures		file.gitconfig		package-lock.json
+Documents		Movies			Postman			git			package.json
+romankapkanov@MacBook-Air-m1 ~ % cd testrepo
+cd: no such file or directory: testrepo
+romankapkanov@MacBook-Air-m1 ~ % ls
+Applications		Downloads		Music			Public			node_modules
+Desktop			Library			Pictures		file.gitconfig		package-lock.json
+Documents		Movies			Postman			git			package.json
+romankapkanov@MacBook-Air-m1 ~ % ls
+Applications		Downloads		Music			Public			node_modules
+Desktop			Library			Pictures		file.gitconfig		package-lock.json
+Documents		Movies			Postman			git			package.json
+romankapkanov@MacBook-Air-m1 ~ % cd git
+romankapkanov@MacBook-Air-m1 git % cd testrepo
+romankapkanov@MacBook-Air-m1 testrepo % ls
+file1	file2
+romankapkanov@MacBook-Air-m1 testrepo % cat file1
+Userman 
+Step two%                                                                                                                                   romankapkanov@MacBook-Air-m1 testrepo % nano file1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  UW PICO 5.09                                                    File: file1                                                     Modified  
+
+may 
+Userman 
+Step two
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help            ^O WriteOut            ^R Read File           ^Y Prev Pg             ^K Cut Text            ^C Cur Pos             
+^X Exit                ^J Justify             ^W Where is            ^V Next Pg             ^U UnCut Text          ^T To Spell            
